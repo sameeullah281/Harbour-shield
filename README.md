@@ -1,5 +1,5 @@
 # Harbour Shield
-### Personal Project
+### Project
 
 <p>
 
@@ -56,3 +56,10 @@
 - SQLite
 
 </p>
+
+
+#Contact
+
+For any inquiries or support, please contact 281samee@gmail.com
+
+
